@@ -45,5 +45,5 @@ NODE_ENV = "production"
 
 [[env.production.d1_databases]]
 binding = "DB"
-database_name = "katelyatv-db"
-database_id = "2da68808-84ca-461b-abf7-a9749022ff63"
+database_name = "katelyatv"
+database_id = "a0c78c54-847c-4a91-9eeb-8118090e6942"
